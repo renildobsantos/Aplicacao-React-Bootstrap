@@ -1,3 +1,12 @@
+# Aplicação React - Sistema de Cadastro de Usuários
+
+![tela_rh](https://github.com/renildobsantos/Sistema-Gerenciamento-Integrado-Angular/assets/79602519/abd3ed70-5237-442e-b696-5e72d705ca3d)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
