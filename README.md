@@ -1,11 +1,15 @@
-# Aplicação React - Sistema de Cadastro de Usuários
+# Aplicação Crud React - Sistema de Cadastro de Usuários
 
-![tela_rh](https://github.com/renildobsantos/Sistema-Gerenciamento-Integrado-Angular/assets/79602519/abd3ed70-5237-442e-b696-5e72d705ca3d)
+![print (1)](https://github.com/renildobsantos/Aplicacao-React-Bootstrap/assets/79602519/1bacb3a6-e93b-4434-ba5d-8585fb9e7413)
+![print (2)](https://github.com/renildobsantos/Aplicacao-React-Bootstrap/assets/79602519/f61c2c9c-4997-4c5b-bfdf-d9e5866f549e)
+![print (3)](https://github.com/renildobsantos/Aplicacao-React-Bootstrap/assets/79602519/ecc45e4e-4490-48ac-bdd1-462da2d91282)
 
-
-
-
-
+# Escopo do projeto:
+### - Biblioteca Reactjs
+### - React-Bootstrap
+### - React-hook-form
+### - ApiFake
+### - Json-Server
 
 # Getting Started with Create React App
 
